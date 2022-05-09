@@ -1,1 +1,1 @@
-# Learning web fundamental
+# Learning web fundamentals
